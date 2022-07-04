@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppCaffe</string>
+    <string name="cash">CASH</string>
+    <string name="link_aja_gopay">LINK AJA/GOPAY/Kartu Debit/Kartu Kredit</string>
+    <string name="silakan_pilih_metode_pembayaran">Silakan Pilih Metode Pembayaran</string>
+    <string name="nomor_meja_anda">Nomor Meja Anda</string>
+    <string name="_10">10</string>
+</resources>
